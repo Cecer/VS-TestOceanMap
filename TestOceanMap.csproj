@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <!-- Mod Metadata -->
+    <PropertyGroup>
+        <Title>Test Ocean Map</Title>
+        <Description>Replaces the world oceanmap with a test pattern</Description>
+
+        <Version>1.0.0</Version>
+
+        <RepositoryUrl>https://github.com/Cecer/VS-TestOceanMap/</RepositoryUrl>
+    </PropertyGroup>
+
+    <!-- Compile Configuration -->
+    <PropertyGroup>
+        <RootNamespace>TestOceanMap</RootNamespace>
+    </PropertyGroup>
+</Project>
